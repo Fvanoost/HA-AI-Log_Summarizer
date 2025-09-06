@@ -1,6 +1,6 @@
 appdaemon:
-  latitude: 52.379189
-  longitude: 4.899431
+  latitude: "you lattitude"
+  longitude: "your longitude"
   elevation: 2
   time_zone: Europe/Amsterdam
   plugins:
